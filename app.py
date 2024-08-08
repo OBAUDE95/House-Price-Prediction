@@ -9,7 +9,7 @@ import requests
 import hashlib
 
 # Define the URL to your model on GitHub
-model_url = "https://github.com/OBAUDE95/House-Price-Prediction/raw/a27c5cdeba10f459e39b56df949e9da2550c5ee2/random_forest_model.pkl"
+model_url = "https://github.com/OBAUDE95/House-Price-Prediction/raw/7096dd697854e9c7e660bd3ebc7f326ded7a2cb8/random_forest_model2.pkl"
 
 # Download the model file
 response = requests.get(model_url)
